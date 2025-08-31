@@ -18,9 +18,12 @@ A full-stack modern blog application built with React, Node.js, Express, and Mon
 <img width="960" height="442" alt="image" src="https://github.com/user-attachments/assets/9c26773c-5a69-4371-9437-db5f96d034bd" />
 
 ### Dashboard & Post Creation
-<img width="960" height="419" alt="image" src="https://github.com/user-attachments/assets/2aaf730c-1b7b-46ca-9f65-59e9500b685f" />
 
-<img width="960" height="414" alt="image" src="https://github.com/user-attachments/assets/011979b9-5b33-41ce-9e7b-045db6bb5e94" />
+<img width="960" height="409" alt="image" src="https://github.com/user-attachments/assets/776964d6-d701-4ac2-9b7d-2c84df10ebbd" />
+
+
+<img width="960" height="415" alt="image" src="https://github.com/user-attachments/assets/48a09cfc-38c0-4277-9405-aa735fe4463e" />
+
 
 
 
